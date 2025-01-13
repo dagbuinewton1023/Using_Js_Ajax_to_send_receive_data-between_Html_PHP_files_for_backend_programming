@@ -1,8 +1,8 @@
 -- Create the database
-CREATE DATABASE IF NOT EXISTS starting_php;
+CREATE DATABASE IF NOT EXISTS php_ajax;
 
 -- Use the created database
-USE starting_php;
+USE php_ajax;
 
 -- Create the 'users' table
 CREATE TABLE IF NOT EXISTS users (
