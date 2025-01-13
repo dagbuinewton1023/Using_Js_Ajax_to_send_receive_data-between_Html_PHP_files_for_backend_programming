@@ -17,7 +17,7 @@ To create your own database pls follow these steps otherwise you are just on you
 
 
 How to navigate through the webpages to get a feel of the backend you will be using
-- Open ONLY the file named "register.php" in your browser using the link "http://localhost/yourFolder/register.php" in a new tab 
+- Open ONLY the file named "register.php" in your browser using the link "http://localhost/yourFolderName/register.php" in a new tab 
 - This will lanch the register page for you to navigate through the the entire website
 - NB: fill the register form> login form> then it takes you automatically ot the index.php page for a suprise which awaits you there😁 and you will find the "view database" button where you can see your own admin panel!
 - You can can make reference to the file to see the code structure and how it was designed.
